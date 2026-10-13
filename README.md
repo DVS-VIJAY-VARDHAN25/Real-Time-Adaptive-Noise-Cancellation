@@ -96,7 +96,11 @@ The optimization script compares multiple filter lengths and step sizes and visu
 
 ![NLMS Optimization Heatmap](images/matlab_optimization_heatmap.png)
 
-*Replace the example image paths above with the actual filenames of your MATLAB screenshots. Do not report numerical SNR improvements unless they have been measured from your simulation.*
+### 4. ANC Noise Reduction Output
+
+![Noise_Reduction_Result](images/anc_noise_reduction_result.png)
+
+![Noise_Reduction_Correlation](images/matlab_correlation.png)
 
 ## 🔌 Hardware Implementation
 
